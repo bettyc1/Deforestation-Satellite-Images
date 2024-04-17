@@ -46,7 +46,6 @@ List the technologies, libraries, and frameworks used in your project.
 
 ## Authors <!--- do not change this line -->
 
-List the names and contact information (e.g., email, GitHub profiles) of the authors or contributors.
 This project was completed in collaboration with:
 - Betty Cheng ([bettyc1@uw.edu](mailto:bettyc1@uw.edu) and [GitHub profile](https://github.com/bettyc1))
 - Emily Rosenfeld ([erosenfeld7@gatech.edu](mailto:erosenfeld7@gatech.edu) and [GitHub profile]())
