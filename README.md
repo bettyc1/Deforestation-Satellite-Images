@@ -1,23 +1,16 @@
-# (UPDATE IN README.md) Project Title
+# Identifying Deforestation from Satellite Images
 
-(UPDATE IN README.md)
-Briefly describe the purpose/result(s) of your project, the skills you applied, and the Apply AI program.
-
-*EXAMPLE:*
-*Uncovered and meticulously analyzed three distinct biases present in ChatGPT, employing advanced Python techniques and data analysis methodologies, all within AI4ALL's cutting-edge AI4ALL Ignite accelerator.*
-
+This is a computer vision model that detects if forest areas experienced deforestation. Logistics regression is a method to help predict the probability rather the image we inputted belongs to which possible category. We can input a satellite image of a forest region into the model, which then categorizes the image classified as experienced deforestation or hasn't experienced deforestation. By logistic regression and Python techniques, the model does image classifications and calculates the probability which category the satellite image belongs to. The model will to process and analyze the image data, which can be used to understand if the forest region experienced deforestation. This project was created within the AI4ALL Ignite Program SP24 with supportive instructor, instructor assistant and mentor.
 
 ## Problem Statement <!--- do not change this line -->
 
-(UPDATE IN README.md)
-Describe the motivation for this project, why it is relevant, and what its impacts are.
+Predicting deforestation using satellite imagery is crucial because it is a step forward in climate change mitigation efforts. Deforestation contributes significantly to greenhouse gas emissions, which exacerbate climate change. By accurately predicting areas at risk of deforestation, we can take real-time measures to mitigate its impact on the climate. 
+Secondly, preserving biodiversity and ecosystems relies heavily on monitoring deforestation patterns. Forests are home to countless endangered species of plants and animals, many of which risk losing their habitats and extinction. By predicting deforestation, we can prioritize areas for protection and restoration, helping to safeguard biodiversity. Moreover, human populations often depend on specific areas for their livelihoods. Many communities residing in or near forests rely on them for resources such as food, water, and medicine. Predicting deforestation allows for better planning and management of resources, ensuring the sustainability of these communities.
 
-*EXAMPLE:*
-*Given the substantial daily output of responses, the identification and mitigation of ChatGPT's biases become critical, safeguarding both the multitude of users and the far-reaching consequences they may influence.*
+The ability to predict deforestation using satellite imagery is not only crucial for combating climate change but also for preserving biodiversity, ecosystems, and the livelihoods of human populations dependent on forested areas. The significance of deforestation extends globally for identifying deforestation patterns in different regions and contributing to initiatives of preserving natural ecosystems. It is important to identify if an ecosystem is experiencing deforestation early, so advocates can stop deforestation before a forest suffers from negative environmental effects
 
 ## Key Results <!--- do not change this line -->
 
-(UPDATE IN README.md)
 Enumerate the main results of this project in a list and describe them.
 
 *EXAMPLE:*
@@ -39,29 +32,23 @@ Enumerate the main results of this project in a list and describe them.
 
 ## Data Sources <!--- do not change this line -->
 
-(UPDATE IN README.md)
-Include any relevant data sources that were used in your project.
-
-*EXAMPLE:*
-*Kaggle Datasets: [Link to Kaggle Dataset](https://www.kaggle.com/datasets)*
+Kaggle Dataset: [Link](https://www.kaggle.com/c/dsc6232-rwanda-summer2020-hw2/overview)
 
 ## Technologies Used <!--- do not change this line -->
 
 (UPDATE IN README.md)
 List the technologies, libraries, and frameworks used in your project.
-
-*EXAMPLE:*
-- *Python*
-- *pandas*
-- *OpenAI API*
+- Python
+- pandas
+- numpy
+- Google Colaboratory
 
 
 ## Authors <!--- do not change this line -->
 
-(UPDATE IN README.md)
 List the names and contact information (e.g., email, GitHub profiles) of the authors or contributors.
-
-*EXAMPLE:*
-*This project was completed in collaboration with:*
-- *John Doe ([john.doe@example.com](mailto:john.doe@example.com))*
-- *Jane Smith ([jane.smith@example.com](mailto:jane.smith@example.com))*
+This project was completed in collaboration with:
+- Betty Cheng ([bettyc1@uw.edu](mailto:bettyc1@uw.edu) and [GitHub profile](https://github.com/bettyc1))
+- Emily Rosenfeld ([erosenfeld7@gatech.edu](mailto:erosenfeld7@gatech.edu) and [GitHub profile]())
+- Brianna Stan ([brianna-alexand.stan@yale.edu](mailto:brianna-alexand.stan@yale.edu) and [GitHub profile]())
+- Mridul Pahwa ([mpahw002@fiu.edu](mailto:mpahw002@fiu.edu) and [GitHub profile]())
